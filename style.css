@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#raja{
+    background-color: red;
+    width: 150px;
+    height: 49px;
+    position: relative;
+    left: 500px;
+    top: 50px;
+    font-style: oblique;
+    border-style: double;
+    transition:0.5;
+    cursor:pointer;
+}
+#num1{padding-right: 5px;
+    height: 30px;
+    width: 300px;
+}
+#num2{
+    height: 30px;
+    width: 300px;
+}
+#rj{
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+}
+#result{
+    position: relative;
+    left:100px;
+}
